@@ -9,7 +9,7 @@ var VIRAJVASHI = {
 
         Box.addEventListener("click", function () {
             Box.style.borderColor = "Black";
-            Box.style.backgroundColor = "Blue";
+            Box.style.backgroundColor = "Yellow";
             //Box.textContent = "virajvashi";
         });
 
