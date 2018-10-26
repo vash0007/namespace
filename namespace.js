@@ -19,7 +19,8 @@ var VIRAJVASHI = {
         });
         Box.addEventListener("mouseout", function () {
            Box.classList.toggle("highlight");
-            
+            Box.style.borderColor = "Black";
+            Box.style.backgroundColor = "Red";
             Box.removeAttribute("style");
         });
 
